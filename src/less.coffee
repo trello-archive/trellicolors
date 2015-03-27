@@ -10,7 +10,7 @@ makeLessFile = =>
     for weight, hex of colors
       data += "@#{slugify(name)}-#{weight}: #{hex};\n"
 
-  fs.writeFile "build/colors.less", data, (err) ->
+  fs.writeFile "build/brand-colors.less", data, (err) ->
     if err
       console.log err
 
