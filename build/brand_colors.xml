@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="trello_blue_50" tools:ignore="UnusedResources">#E4F0F6</color>
+    <color name="trello_blue_100" tools:ignore="UnusedResources">#BCD9EA</color>
+    <color name="trello_blue_200" tools:ignore="UnusedResources">#8BBDD9</color>
+    <color name="trello_blue_300" tools:ignore="UnusedResources">#5BA4CF</color>
+    <color name="trello_blue_400" tools:ignore="UnusedResources">#298FCA</color>
+    <color name="trello_blue_500" tools:ignore="UnusedResources">#0079BF</color>
+    <color name="trello_blue_600" tools:ignore="UnusedResources">#026AA7</color>
+    <color name="trello_blue_700" tools:ignore="UnusedResources">#055A8C</color>
+    <color name="trello_blue_800" tools:ignore="UnusedResources">#094C72</color>
+    <color name="trello_blue_900" tools:ignore="UnusedResources">#0C3953</color>
+
+    <color name="green_50" tools:ignore="UnusedResources">#EFF6E4</color>
+    <color name="green_100" tools:ignore="UnusedResources">#D9E9BE</color>
+    <color name="green_200" tools:ignore="UnusedResources">#BDDA8F</color>
+    <color name="green_300" tools:ignore="UnusedResources">#A2CC5E</color>
+    <color name="green_400" tools:ignore="UnusedResources">#87C129</color>
+    <color name="green_500" tools:ignore="UnusedResources">#70B500</color>
+    <color name="green_600" tools:ignore="UnusedResources">#64A200</color>
+    <color name="green_700" tools:ignore="UnusedResources">#578C00</color>
+    <color name="green_800" tools:ignore="UnusedResources">#4A7701</color>
+    <color name="green_900" tools:ignore="UnusedResources">#3B5E01</color>
+
+    <color name="orange_50" tools:ignore="UnusedResources">#FDF4E7</color>
+    <color name="orange_100" tools:ignore="UnusedResources">#FCE6C6</color>
+    <color name="orange_200" tools:ignore="UnusedResources">#FAD29C</color>
+    <color name="orange_300" tools:ignore="UnusedResources">#FDBF69</color>
+    <color name="orange_400" tools:ignore="UnusedResources">#FFAF3F</color>
+    <color name="orange_500" tools:ignore="UnusedResources">#FF9F1A</color>
+    <color name="orange_600" tools:ignore="UnusedResources">#E79217</color>
+    <color name="orange_700" tools:ignore="UnusedResources">#CD8313</color>
+    <color name="orange_800" tools:ignore="UnusedResources">#B4760F</color>
+    <color name="orange_900" tools:ignore="UnusedResources">#96650A</color>
+
+    <color name="red_50" tools:ignore="UnusedResources">#FBEDEB</color>
+    <color name="red_100" tools:ignore="UnusedResources">#F5D3CE</color>
+    <color name="red_200" tools:ignore="UnusedResources">#EFB3AB</color>
+    <color name="red_300" tools:ignore="UnusedResources">#EC9488</color>
+    <color name="red_400" tools:ignore="UnusedResources">#EF7564</color>
+    <color name="red_500" tools:ignore="UnusedResources">#EB5A46</color>
+    <color name="red_600" tools:ignore="UnusedResources">#CF513D</color>
+    <color name="red_700" tools:ignore="UnusedResources">#B04632</color>
+    <color name="red_800" tools:ignore="UnusedResources">#933B27</color>
+    <color name="red_900" tools:ignore="UnusedResources">#6E2F1A</color>
+
+    <color name="yellow_50" tools:ignore="UnusedResources">#FDFAE5</color>
+    <color name="yellow_100" tools:ignore="UnusedResources">#FAF3C0</color>
+    <color name="yellow_200" tools:ignore="UnusedResources">#F5EA92</color>
+    <color name="yellow_300" tools:ignore="UnusedResources">#F3E260</color>
+    <color name="yellow_400" tools:ignore="UnusedResources">#F5DD29</color>
+    <color name="yellow_500" tools:ignore="UnusedResources">#F2D600</color>
+    <color name="yellow_600" tools:ignore="UnusedResources">#E6C60D</color>
+    <color name="yellow_700" tools:ignore="UnusedResources">#D9B51C</color>
+    <color name="yellow_800" tools:ignore="UnusedResources">#CCA42B</color>
+    <color name="yellow_900" tools:ignore="UnusedResources">#BD903C</color>
+
+    <color name="purple_50" tools:ignore="UnusedResources">#F7F0FA</color>
+    <color name="purple_100" tools:ignore="UnusedResources">#EDDBF4</color>
+    <color name="purple_200" tools:ignore="UnusedResources">#DFC0EB</color>
+    <color name="purple_300" tools:ignore="UnusedResources">#D5A6E6</color>
+    <color name="purple_400" tools:ignore="UnusedResources">#CD8DE5</color>
+    <color name="purple_500" tools:ignore="UnusedResources">#C377E0</color>
+    <color name="purple_600" tools:ignore="UnusedResources">#A86CC1</color>
+    <color name="purple_700" tools:ignore="UnusedResources">#89609E</color>
+    <color name="purple_800" tools:ignore="UnusedResources">#6C547B</color>
+    <color name="purple_900" tools:ignore="UnusedResources">#484553</color>
+
+    <color name="pink_50" tools:ignore="UnusedResources">#FEF1F9</color>
+    <color name="pink_100" tools:ignore="UnusedResources">#FCDCEF</color>
+    <color name="pink_200" tools:ignore="UnusedResources">#F9C2E4</color>
+    <color name="pink_300" tools:ignore="UnusedResources">#FFABDF</color>
+    <color name="pink_400" tools:ignore="UnusedResources">#FF8ED4</color>
+    <color name="pink_500" tools:ignore="UnusedResources">#FF78CB</color>
+    <color name="pink_600" tools:ignore="UnusedResources">#E568AF</color>
+    <color name="pink_700" tools:ignore="UnusedResources">#C9558F</color>
+    <color name="pink_800" tools:ignore="UnusedResources">#AE4270</color>
+    <color name="pink_900" tools:ignore="UnusedResources">#8E2D4B</color>
+
+    <color name="sky_50" tools:ignore="UnusedResources">#E4F7FA</color>
+    <color name="sky_100" tools:ignore="UnusedResources">#BDECF3</color>
+    <color name="sky_200" tools:ignore="UnusedResources">#8FDFEB</color>
+    <color name="sky_300" tools:ignore="UnusedResources">#5DD3E5</color>
+    <color name="sky_400" tools:ignore="UnusedResources">#29CCE5</color>
+    <color name="sky_500" tools:ignore="UnusedResources">#00C2E0</color>
+    <color name="sky_600" tools:ignore="UnusedResources">#00AECC</color>
+    <color name="sky_700" tools:ignore="UnusedResources">#0098B7</color>
+    <color name="sky_800" tools:ignore="UnusedResources">#0082A0</color>
+    <color name="sky_900" tools:ignore="UnusedResources">#006988</color>
+
+    <color name="lime_50" tools:ignore="UnusedResources">#ECFBF3</color>
+    <color name="lime_100" tools:ignore="UnusedResources">#D3F6E4</color>
+    <color name="lime_200" tools:ignore="UnusedResources">#B3F1D0</color>
+    <color name="lime_300" tools:ignore="UnusedResources">#90ECC1</color>
+    <color name="lime_400" tools:ignore="UnusedResources">#6DECA9</color>
+    <color name="lime_500" tools:ignore="UnusedResources">#51E898</color>
+    <color name="lime_600" tools:ignore="UnusedResources">#4ED583</color>
+    <color name="lime_700" tools:ignore="UnusedResources">#4BBF6B</color>
+    <color name="lime_800" tools:ignore="UnusedResources">#49AA54</color>
+    <color name="lime_900" tools:ignore="UnusedResources">#459139</color>
+
+    <color name="light_gray_50" tools:ignore="UnusedResources">#F8F9F9</color>
+    <color name="light_gray_100" tools:ignore="UnusedResources">#EDEFF0</color>
+    <color name="light_gray_200" tools:ignore="UnusedResources">#E2E4E6</color>
+    <color name="light_gray_300" tools:ignore="UnusedResources">#D6DADC</color>
+    <color name="light_gray_400" tools:ignore="UnusedResources">#CDD2D4</color>
+    <color name="light_gray_500" tools:ignore="UnusedResources">#C4C9CC</color>
+    <color name="light_gray_600" tools:ignore="UnusedResources">#B6BBBF</color>
+    <color name="light_gray_700" tools:ignore="UnusedResources">#A5ACB0</color>
+    <color name="light_gray_800" tools:ignore="UnusedResources">#959DA1</color>
+    <color name="light_gray_900" tools:ignore="UnusedResources">#838C91</color>
+
+</resources>
