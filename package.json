@@ -1,0 +1,16 @@
+{
+  "name": "trellicolors",
+  "version": "1.0.0",
+  "description": "Convert Trello brand colors into various formats.",
+  "main": "index.coffee",
+  "scripts": {
+    "convert": "tools/convert"
+  },
+  "author": "Trello Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "gulp": "^3.8.11",
+    "nodemon": "^1.3.7"
+  }
+}
