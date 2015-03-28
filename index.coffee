@@ -1,7 +1,3 @@
-makeLessFile = require './src/less.coffee'
-makeAndroidXmlFile = require './src/android.coffee'
-makeJsonFile = require './src/json.coffee'
+converters = require './src/converters'
 
-makeLessFile()
-makeAndroidXmlFile()
-makeJsonFile()
+task() for key, task of converters

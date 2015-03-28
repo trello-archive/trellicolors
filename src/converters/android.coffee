@@ -1,8 +1,8 @@
-palette = require './data.coffee'
-slugify = require './slugify.coffee'
-fs = require 'fs'
+palette = require '../data/palette.coffee'
+slugify = require '../utils/slugify.coffee'
+write = require '../utils/write.coffee'
 
-makeAndroidXmlFile = =>
+module.exports = ->
   data = """<?xml version="1.0" encoding="utf-8"?>
     <resources xmlns:tools="http://schemas.android.com/tools">\n"""
 
@@ -13,8 +13,4 @@ makeAndroidXmlFile = =>
 
   data += "\n</resources>"
 
-  fs.writeFile "build/brand_colors.xml", data, (err) ->
-    if err
-      console.log err
-
-module.exports = makeAndroidXmlFile
+  write('brand_colors.xml', data)
