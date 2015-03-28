@@ -13,3 +13,7 @@ module.exports = ->
   json = JSON.stringify(data, null, 2)
 
   write('brand-colors.json', json)
+
+  json = JSON.stringify(data)
+
+  write('brand-colors.min.json', json)
