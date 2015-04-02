@@ -8,7 +8,13 @@ Various formats include…
 - XML (for Android)
 - JSON
 
-If you’re just looking for exported file, see `/build`.
+If you’re just looking for exported files, see `/build`.
+
+
+# Applying colors
+
+For how to use the palette, see the [Trello Brand
+Guide](https://trello.com/about/branding#colors).
 
 
 # I want to contribute!
