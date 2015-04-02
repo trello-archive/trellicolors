@@ -98,5 +98,15 @@
   "light-gray-600": "#B6BBBF",
   "light-gray-700": "#A5ACB0",
   "light-gray-800": "#959DA1",
-  "light-gray-900": "#838C91"
+  "light-gray-900": "#838C91",
+  "business-blue-50": "#ECEEEE",
+  "business-blue-100": "#D1D6D8",
+  "business-blue-200": "#B0B8BD",
+  "business-blue-300": "#919DA5",
+  "business-blue-400": "#73828C",
+  "business-blue-500": "#576A75",
+  "business-blue-600": "#4E606A",
+  "business-blue-700": "#46555E",
+  "business-blue-800": "#3C4A52",
+  "business-blue-900": "#323E43"
 }
