@@ -12,16 +12,16 @@
     <color name="trello_blue_800" tools:ignore="UnusedResources">#094C72</color>
     <color name="trello_blue_900" tools:ignore="UnusedResources">#0C3953</color>
 
-    <color name="green_50" tools:ignore="UnusedResources">#EFF6EE</color>
-    <color name="green_100" tools:ignore="UnusedResources">#D8ECD6</color>
-    <color name="green_200" tools:ignore="UnusedResources">#BBDDB8</color>
-    <color name="green_300" tools:ignore="UnusedResources">#9ED19A</color>
-    <color name="green_400" tools:ignore="UnusedResources">#82C87C</color>
-    <color name="green_500" tools:ignore="UnusedResources">#6ABD62</color>
-    <color name="green_600" tools:ignore="UnusedResources">#62AC55</color>
-    <color name="green_700" tools:ignore="UnusedResources">#579846</color>
-    <color name="green_800" tools:ignore="UnusedResources">#4E8538</color>
-    <color name="green_900" tools:ignore="UnusedResources">#436F28</color>
+    <color name="green_50" tools:ignore="UnusedResources">#EEF6EC</color>
+    <color name="green_100" tools:ignore="UnusedResources">#D6ECD2</color>
+    <color name="green_200" tools:ignore="UnusedResources">#B7DDB0</color>
+    <color name="green_300" tools:ignore="UnusedResources">#99D18F</color>
+    <color name="green_400" tools:ignore="UnusedResources">#7BC86C</color>
+    <color name="green_500" tools:ignore="UnusedResources">#61BD4F</color>
+    <color name="green_600" tools:ignore="UnusedResources">#5AAC44</color>
+    <color name="green_700" tools:ignore="UnusedResources">#519839</color>
+    <color name="green_800" tools:ignore="UnusedResources">#49852E</color>
+    <color name="green_900" tools:ignore="UnusedResources">#3F6F21</color>
 
     <color name="orange_50" tools:ignore="UnusedResources">#FDF5EC</color>
     <color name="orange_100" tools:ignore="UnusedResources">#FCE8D2</color>
