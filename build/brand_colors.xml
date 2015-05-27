@@ -95,10 +95,10 @@
     <color name="lime_300" tools:ignore="UnusedResources">#90ECC1</color>
     <color name="lime_400" tools:ignore="UnusedResources">#6DECA9</color>
     <color name="lime_500" tools:ignore="UnusedResources">#51E898</color>
-    <color name="lime_600" tools:ignore="UnusedResources">#50D883</color>
-    <color name="lime_700" tools:ignore="UnusedResources">#4FC56B</color>
-    <color name="lime_800" tools:ignore="UnusedResources">#4FB354</color>
-    <color name="lime_900" tools:ignore="UnusedResources">#4E9E39</color>
+    <color name="lime_600" tools:ignore="UnusedResources">#4FD683</color>
+    <color name="lime_700" tools:ignore="UnusedResources">#4DC26B</color>
+    <color name="lime_800" tools:ignore="UnusedResources">#4CAF54</color>
+    <color name="lime_900" tools:ignore="UnusedResources">#4A9839</color>
 
     <color name="light_gray_50" tools:ignore="UnusedResources">#F8F9F9</color>
     <color name="light_gray_100" tools:ignore="UnusedResources">#EDEFF0</color>
