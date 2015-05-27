@@ -23,16 +23,16 @@
     <color name="green_800" tools:ignore="UnusedResources">#4E8538</color>
     <color name="green_900" tools:ignore="UnusedResources">#436F28</color>
 
-    <color name="orange_50" tools:ignore="UnusedResources">#FDF5EB</color>
-    <color name="orange_100" tools:ignore="UnusedResources">#FCE7CF</color>
-    <color name="orange_200" tools:ignore="UnusedResources">#FAD6AD</color>
-    <color name="orange_300" tools:ignore="UnusedResources">#FDC583</color>
-    <color name="orange_400" tools:ignore="UnusedResources">#FFB661</color>
-    <color name="orange_500" tools:ignore="UnusedResources">#FFA742</color>
-    <color name="orange_600" tools:ignore="UnusedResources">#E79939</color>
-    <color name="orange_700" tools:ignore="UnusedResources">#CD892F</color>
-    <color name="orange_800" tools:ignore="UnusedResources">#B47A25</color>
-    <color name="orange_900" tools:ignore="UnusedResources">#966819</color>
+    <color name="orange_50" tools:ignore="UnusedResources">#FDF5EC</color>
+    <color name="orange_100" tools:ignore="UnusedResources">#FCE8D2</color>
+    <color name="orange_200" tools:ignore="UnusedResources">#FAD8B0</color>
+    <color name="orange_300" tools:ignore="UnusedResources">#FDC788</color>
+    <color name="orange_400" tools:ignore="UnusedResources">#FFB968</color>
+    <color name="orange_500" tools:ignore="UnusedResources">#FFAB4A</color>
+    <color name="orange_600" tools:ignore="UnusedResources">#E99E40</color>
+    <color name="orange_700" tools:ignore="UnusedResources">#D29034</color>
+    <color name="orange_800" tools:ignore="UnusedResources">#BB8129</color>
+    <color name="orange_900" tools:ignore="UnusedResources">#A0711C</color>
 
     <color name="red_50" tools:ignore="UnusedResources">#FBEDEB</color>
     <color name="red_100" tools:ignore="UnusedResources">#F5D3CE</color>
