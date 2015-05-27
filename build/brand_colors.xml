@@ -89,16 +89,16 @@
     <color name="sky_800" tools:ignore="UnusedResources">#0082A0</color>
     <color name="sky_900" tools:ignore="UnusedResources">#006988</color>
 
-    <color name="lime_50" tools:ignore="UnusedResources">#EDFBF5</color>
-    <color name="lime_100" tools:ignore="UnusedResources">#D5F7E7</color>
-    <color name="lime_200" tools:ignore="UnusedResources">#B6F2D7</color>
-    <color name="lime_300" tools:ignore="UnusedResources">#96EECB</color>
-    <color name="lime_400" tools:ignore="UnusedResources">#76EFB8</color>
-    <color name="lime_500" tools:ignore="UnusedResources">#5BEBAA</color>
-    <color name="lime_600" tools:ignore="UnusedResources">#59DA92</color>
-    <color name="lime_700" tools:ignore="UnusedResources">#56C778</color>
-    <color name="lime_800" tools:ignore="UnusedResources">#54B55E</color>
-    <color name="lime_900" tools:ignore="UnusedResources">#529F3F</color>
+    <color name="lime_50" tools:ignore="UnusedResources">#ECFBF3</color>
+    <color name="lime_100" tools:ignore="UnusedResources">#D3F6E4</color>
+    <color name="lime_200" tools:ignore="UnusedResources">#B3F1D0</color>
+    <color name="lime_300" tools:ignore="UnusedResources">#90ECC1</color>
+    <color name="lime_400" tools:ignore="UnusedResources">#6DECA9</color>
+    <color name="lime_500" tools:ignore="UnusedResources">#51E898</color>
+    <color name="lime_600" tools:ignore="UnusedResources">#50D883</color>
+    <color name="lime_700" tools:ignore="UnusedResources">#4FC56B</color>
+    <color name="lime_800" tools:ignore="UnusedResources">#4FB354</color>
+    <color name="lime_900" tools:ignore="UnusedResources">#4E9E39</color>
 
     <color name="light_gray_50" tools:ignore="UnusedResources">#F8F9F9</color>
     <color name="light_gray_100" tools:ignore="UnusedResources">#EDEFF0</color>
