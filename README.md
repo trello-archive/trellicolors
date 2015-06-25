@@ -4,7 +4,7 @@ This script converts the Trello brand colors into various formats.
 
 Various formats include…
 
-- LESS variables
+- LESS, SCSS, and SASS variables
 - XML (for Android)
 - JSON
 
