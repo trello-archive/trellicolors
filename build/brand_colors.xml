@@ -111,15 +111,15 @@
     <color name="light_gray_800" tools:ignore="UnusedResources">#959DA1</color>
     <color name="light_gray_900" tools:ignore="UnusedResources">#838C91</color>
 
-    <color name="business_blue_50" tools:ignore="UnusedResources">#ECEEEE</color>
-    <color name="business_blue_100" tools:ignore="UnusedResources">#D1D6D8</color>
-    <color name="business_blue_200" tools:ignore="UnusedResources">#B0B8BD</color>
-    <color name="business_blue_300" tools:ignore="UnusedResources">#919DA5</color>
-    <color name="business_blue_400" tools:ignore="UnusedResources">#73828C</color>
-    <color name="business_blue_500" tools:ignore="UnusedResources">#576A75</color>
-    <color name="business_blue_600" tools:ignore="UnusedResources">#4E606A</color>
-    <color name="business_blue_700" tools:ignore="UnusedResources">#46555E</color>
-    <color name="business_blue_800" tools:ignore="UnusedResources">#3C4A52</color>
-    <color name="business_blue_900" tools:ignore="UnusedResources">#323E43</color>
+    <color name="business_blue_50" tools:ignore="UnusedResources">#EDEFF4</color>
+    <color name="business_blue_100" tools:ignore="UnusedResources">#D2D7E5</color>
+    <color name="business_blue_200" tools:ignore="UnusedResources">#B2B9D0</color>
+    <color name="business_blue_300" tools:ignore="UnusedResources">#838FB5</color>
+    <color name="business_blue_400" tools:ignore="UnusedResources">#6170A1</color>
+    <color name="business_blue_500" tools:ignore="UnusedResources">#42548E</color>
+    <color name="business_blue_600" tools:ignore="UnusedResources">#3E4D80</color>
+    <color name="business_blue_700" tools:ignore="UnusedResources">#3A476F</color>
+    <color name="business_blue_800" tools:ignore="UnusedResources">#36405F</color>
+    <color name="business_blue_900" tools:ignore="UnusedResources">#30364C</color>
 
 </resources>
