@@ -17,6 +17,16 @@ For how to use the palette, see the [Trello Brand
 Guide](https://trello.com/about/branding#colors).
 
 
+# Sketch Palette
+
+We have one! To import…
+
+- Install the [sketch-palettes
+plugin](https://github.com/andrewfiorillo/sketch-palettes).
+- Then follow the usage instructions to import
+`/build/trello.sketchpalette`
+
+
 # I want to contribute!
 
 Okay! You need to…
