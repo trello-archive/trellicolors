@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+node_modules/coffee-script/bin/coffee src/converters/sketchpalette.coffee
+cat build/trello.sketchpalette

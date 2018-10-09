@@ -1,5 +1,7 @@
 converters = require './src/converters'
 
-task() for key, task of converters
+for key, task of converters
+  task() 
+  console.log "converting #{key}"
 
-console.log 'okay, i’m done.'
+console.log "\nokay, everything is in /build!"

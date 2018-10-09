@@ -5,9 +5,9 @@ write = require '../utils/write.coffee'
 module.exports = ->
   data = {}
 
-  for name, colors of palette
-    for weight, hex of colors
-      key = "#{slugify(name)}-#{weight}"
+  for group, colors of palette
+    for name, hex of colors
+      key = "#{slugify(name)}"
       data[key] = hex
 
   json = JSON.stringify(data, null, 2)

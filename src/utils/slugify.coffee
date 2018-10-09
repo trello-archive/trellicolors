@@ -1,6 +1,6 @@
 slugify = (string, doUnderscore) ->
 
-  string = string.toLowerCase()
+  string = string
     .replace(/[^\w ]+/g,'')
     .replace(/\ +/g,'-')
 
