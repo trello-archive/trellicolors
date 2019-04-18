@@ -3,8 +3,6 @@ write = require '../utils/write.coffee'
 hexRgb = require 'hex-rgb'
 
 module.exports = ->
-  console.log "i'm workin."
-
   data = {"compatibleVersion":"2.0", "pluginVersion":"2.21", "colors": []}
 
   for group, colors of palette
