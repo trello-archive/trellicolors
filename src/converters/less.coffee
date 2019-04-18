@@ -7,7 +7,13 @@ module.exports = ->
 
   for group, colors of palette
     data += "\n"
-    for name, hex of colors
-      data += "@#{slugify(name)}: #{hex};\n"
+
+    for item in colors
+      if item.alpha
+        alpha = item.alpha * 100
+        value = "fade(#{item.hex}, #{alpha}%)"
+        data += "@#{item.varname}: #{value};\n"
+      else
+        data += "@#{item.varname}: #{item.hex};\n"
 
   write('brand-colors.less', data)

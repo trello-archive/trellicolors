@@ -2,42 +2,42 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <color name="N0" tools:ignore="UnusedResources">#FFFFFF</color>
-    <color name="N10" tools:ignore="UnusedResources">#FAFCFC</color>
-    <color name="N20" tools:ignore="UnusedResources">#F5F6F7</color>
-    <color name="N30" tools:ignore="UnusedResources">#EBEEF0</color>
-    <color name="N40" tools:ignore="UnusedResources">#DFE3E6</color>
-    <color name="N50" tools:ignore="UnusedResources">#C2CCD1</color>
-    <color name="N60" tools:ignore="UnusedResources">#B3BEC4</color>
-    <color name="N70" tools:ignore="UnusedResources">#A6B3BA</color>
-    <color name="N80" tools:ignore="UnusedResources">#97A7B0</color>
-    <color name="N90" tools:ignore="UnusedResources">#899AA3</color>
-    <color name="N100" tools:ignore="UnusedResources">#798D99</color>
-    <color name="N200" tools:ignore="UnusedResources">#6B808C</color>
-    <color name="N300" tools:ignore="UnusedResources">#5E7785</color>
-    <color name="N400" tools:ignore="UnusedResources">#516B7A</color>
-    <color name="N500" tools:ignore="UnusedResources">#425E6E</color>
-    <color name="N600" tools:ignore="UnusedResources">#355263</color>
-    <color name="N700" tools:ignore="UnusedResources">#254659</color>
-    <color name="N800" tools:ignore="UnusedResources">#17394D</color>
-    <color name="N900" tools:ignore="UnusedResources">#092D42</color>
+    <color name="N10" tools:ignore="UnusedResources">#FAFBFC</color>
+    <color name="N20" tools:ignore="UnusedResources">#F4F5F7</color>
+    <color name="N30" tools:ignore="UnusedResources">#EBECF0</color>
+    <color name="N40" tools:ignore="UnusedResources">#DFE1E6</color>
+    <color name="N50" tools:ignore="UnusedResources">#C1C7D0</color>
+    <color name="N60" tools:ignore="UnusedResources">#B3BAC5</color>
+    <color name="N70" tools:ignore="UnusedResources">#A5ADBA</color>
+    <color name="N80" tools:ignore="UnusedResources">#97A0AF</color>
+    <color name="N90" tools:ignore="UnusedResources">#8993A4</color>
+    <color name="N100" tools:ignore="UnusedResources">#7A869A</color>
+    <color name="N200" tools:ignore="UnusedResources">#6B778C</color>
+    <color name="N300" tools:ignore="UnusedResources">#5E6C84</color>
+    <color name="N400" tools:ignore="UnusedResources">#505F79</color>
+    <color name="N500" tools:ignore="UnusedResources">#42526E</color>
+    <color name="N600" tools:ignore="UnusedResources">#344563</color>
+    <color name="N700" tools:ignore="UnusedResources">#253858</color>
+    <color name="N800" tools:ignore="UnusedResources">#172B4D</color>
+    <color name="N900" tools:ignore="UnusedResources">#091E42</color>
 
-    <color name="N10A" tools:ignore="UnusedResources">#092D4205</color>
-    <color name="N20A" tools:ignore="UnusedResources">#092D420A</color>
-    <color name="N30A" tools:ignore="UnusedResources">#092D4214</color>
-    <color name="N40A" tools:ignore="UnusedResources">#092D4221</color>
-    <color name="N50A" tools:ignore="UnusedResources">#092D4240</color>
-    <color name="N60A" tools:ignore="UnusedResources">#092D424F</color>
-    <color name="N70A" tools:ignore="UnusedResources">#092D425C</color>
-    <color name="N80A" tools:ignore="UnusedResources">#092D426B</color>
-    <color name="N90A" tools:ignore="UnusedResources">#092D427A</color>
-    <color name="N100A" tools:ignore="UnusedResources">#092D428A</color>
-    <color name="N200A" tools:ignore="UnusedResources">#092D4299</color>
-    <color name="N300A" tools:ignore="UnusedResources">#092D42A8</color>
-    <color name="N400A" tools:ignore="UnusedResources">#092D42B5</color>
-    <color name="N500A" tools:ignore="UnusedResources">#092D42C4</color>
-    <color name="N600A" tools:ignore="UnusedResources">#092D42D1</color>
-    <color name="N700A" tools:ignore="UnusedResources">#092D42E3</color>
-    <color name="N800A" tools:ignore="UnusedResources">#092D42F2</color>
+    <color name="N10A" tools:ignore="UnusedResources">#05091E42</color>
+    <color name="N20A" tools:ignore="UnusedResources">#0A091E42</color>
+    <color name="N30A" tools:ignore="UnusedResources">#14091E42</color>
+    <color name="N40A" tools:ignore="UnusedResources">#21091E42</color>
+    <color name="N50A" tools:ignore="UnusedResources">#40091E42</color>
+    <color name="N60A" tools:ignore="UnusedResources">#4F091E42</color>
+    <color name="N70A" tools:ignore="UnusedResources">#5C091E42</color>
+    <color name="N80A" tools:ignore="UnusedResources">#6B091E42</color>
+    <color name="N90A" tools:ignore="UnusedResources">#7A091E42</color>
+    <color name="N100A" tools:ignore="UnusedResources">#8A091E42</color>
+    <color name="N200A" tools:ignore="UnusedResources">#99091E42</color>
+    <color name="N300A" tools:ignore="UnusedResources">#A8091E42</color>
+    <color name="N400A" tools:ignore="UnusedResources">#B5091E42</color>
+    <color name="N500A" tools:ignore="UnusedResources">#C4091E42</color>
+    <color name="N600A" tools:ignore="UnusedResources">#D1091E42</color>
+    <color name="N700A" tools:ignore="UnusedResources">#E3091E42</color>
+    <color name="N800A" tools:ignore="UnusedResources">#F2091E42</color>
 
     <color name="trello-blue-50" tools:ignore="UnusedResources">#E4F0F6</color>
     <color name="trello-blue-100" tools:ignore="UnusedResources">#BCD9EA</color>
@@ -148,5 +148,16 @@
     <color name="business-blue-700" tools:ignore="UnusedResources">#3A476F</color>
     <color name="business-blue-800" tools:ignore="UnusedResources">#36405F</color>
     <color name="business-blue-900" tools:ignore="UnusedResources">#30364C</color>
+
+    <color name="light-gray-50" tools:ignore="UnusedResources">#F8F9F9</color>
+    <color name="light-gray-100" tools:ignore="UnusedResources">#EDEFF0</color>
+    <color name="light-gray-200" tools:ignore="UnusedResources">#E2E4E6</color>
+    <color name="light-gray-300" tools:ignore="UnusedResources">#D6DADC</color>
+    <color name="light-gray-400" tools:ignore="UnusedResources">#CDD2D4</color>
+    <color name="light-gray-500" tools:ignore="UnusedResources">#C4C9CC</color>
+    <color name="light-gray-600" tools:ignore="UnusedResources">#B6BBBF</color>
+    <color name="light-gray-700" tools:ignore="UnusedResources">#A5ACB0</color>
+    <color name="light-gray-800" tools:ignore="UnusedResources">#959DA1</color>
+    <color name="light-gray-900" tools:ignore="UnusedResources">#838C91</color>
 
 </resources>

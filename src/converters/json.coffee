@@ -6,9 +6,11 @@ module.exports = ->
   data = {}
 
   for group, colors of palette
-    for name, hex of colors
-      key = "#{slugify(name)}"
-      data[key] = hex
+    for item in colors
+      # don't show alpha neutrals for now
+      if !item.alpha
+        key = "#{item.varname}"
+        data[key] = item.hex
 
   json = JSON.stringify(data, null, 2)
 
